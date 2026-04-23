@@ -1,4 +1,4 @@
-module github.com/jabar/aws-token-persister
+module github.com/Azhovan/pac
 
 go 1.22
 

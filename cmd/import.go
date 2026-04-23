@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/jabar/aws-token-persister/internal/creds"
+	"github.com/Azhovan/pac/internal/creds"
 	"github.com/spf13/cobra"
 )
 

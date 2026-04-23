@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jabar/aws-token-persister/cmd"
+	"github.com/Azhovan/pac/cmd"
 )
 
 func main() {
