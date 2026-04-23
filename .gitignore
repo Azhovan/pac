@@ -1,0 +1,18 @@
+# Binary
+pac
+pac-*
+
+# Exported credentials
+aws-creds.json
+
+# IDE
+.idea/
+
+# Claude Code
+.claude/
+
+# Go
+vendor/
+
+# OS
+.DS_Store
